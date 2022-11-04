@@ -1,3 +1,5 @@
+# Copyright (c) 2022 Sahithi Bhashyam All Rights Reserved
+
 from django.shortcuts import render, redirect
 from .models import Stock
 from .forms import StockForm
